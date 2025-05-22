@@ -2,6 +2,9 @@
 
 A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward as forward, such as `madam` or `_race car`.
 
+## View deployed app
+
+Visit the [https://freecodecamp-ee2.pages.dev/](app) online.
 
 ## Run locally
 
@@ -17,6 +20,3 @@ npm exec -s -- http-server -c-1
 `--` : tell npm the following args are for http-server 
 `-c-1` : disable cache
 
-## View deployed app
-
-Visit the (https://google.com)[app] online.
