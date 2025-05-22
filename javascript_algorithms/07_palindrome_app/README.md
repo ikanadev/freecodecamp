@@ -4,7 +4,7 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 
 ## View deployed app
 
-Visit the [https://freecodecamp-ee2.pages.dev/](app) online.
+Visit the [app](https://freecodecamp-ee2.pages.dev/) online.
 
 ## Run locally
 
